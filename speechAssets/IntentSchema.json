@@ -1,0 +1,23 @@
+"intents": [
+    {
+      "intent": "OneshotSpellIntent",
+      "slots": [
+        {
+          "name": "Spell",
+          "type": "SPELLS"
+        }
+      ]
+    },
+    {
+      "intent": "SupportedSpellsIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+]
