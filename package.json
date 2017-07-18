@@ -1,0 +1,15 @@
+{
+  "name": "pathfinder-spellbook",
+  "version": "1.0.0",
+  "description": "An Alexa skill for looking up Pathfinder spells.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Perry Gowdy",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}
