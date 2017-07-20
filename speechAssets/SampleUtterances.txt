@@ -1,0 +1,7 @@
+OneshotSpellIntent look up {Spell}
+OneshotSpellIntent find {Spell}
+OneshotSpellIntent what is {Spell}
+OneshotSpellIntent find what {Spell} does
+OneshotSpellIntent check {Spell}
+OneshotSpellIntent look to see what {Spell}
+OneshotSpellIntent what does {Spell} do
